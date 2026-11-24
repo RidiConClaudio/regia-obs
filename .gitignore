@@ -1,0 +1,26 @@
+# Gradle & build artifacts
+.gradle/
+build/
+app/build/
+captures/
+.cxx/
+
+# Local environment / SDK paths
+local.properties
+
+# Android binaries & signing keys
+*.apk
+*.aab
+*.ap_
+*.dex
+*.keystore
+*.jks
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
